@@ -1,4 +1,5 @@
 <?php
+
 $file = $theme['folder'] . DS . 'src' . DS . 'Template' . DS . 'Element' . DS . 'aside' . DS . 'sidebar-menu.ctp';
 
 if (file_exists($file)) {
@@ -23,7 +24,7 @@ if (file_exists($file)) {
         </a>
         <ul class="treeview-menu">
             <li><a href="/translation"><i class="fa fa-circle-o"></i>Traduire l'APP</a></li>
-            <li><a href="/translation/download"><i class="fa fa-circle-o"></i> Télécharger Json</a></li>
+            <li><a href="/webroot/upload/localisationSave.json"><i class="fa fa-circle-o"></i> Télécharger Json</a></li>
 
         </ul>
     </li>

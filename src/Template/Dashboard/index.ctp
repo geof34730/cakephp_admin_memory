@@ -1,5 +1,4 @@
 <h1 style="padding:30px;">Bienvenue sur l'outil d'administration <?=PROJET_NAME;?></h1>
-
 <div id="page-wrapper" style="margin:20px;">
     <div class="row">
         <div class="col-lg-12">

@@ -1,0 +1,28 @@
+[
+  {
+    "fr":{
+      "bienvenue": "Bienvenue",
+      "dans_votre_espace_personnel_memory": "dans votre espace personnel Memory",
+      "presentation": "Afin de pouvoir récupérer vos scores, vos memory personnels sur vos différents appareils (tablette, téléphone, ordinateur) de votre foyer, mais aussi partager vos memory avec vos amies, votre famille, nous avons besoin que vous vous inscriviez avec un email /mot de passe",
+
+
+
+
+
+      "termine": "Terminé",
+      "modifier_les_profils": "Modifier les profils",
+      "qui_est_ce": "Qui est-ce ?",
+      "ajouter_un_profil": "Ajouter un profil"
+    },
+    "en":{
+      "bienvenue": "Welcome",
+      "dans_votre_espace_personnel_memory": "in your personal space",
+      "presentation": "In order to be able to recover your scores, your personal memories on your various devices (tablet, telephone, computer) in your home, but also to share your memories with your friends, your family, we need you to register with an email / password. past",
+
+      "termine": "End",
+      "qui_est_ce": "Who is this ?",
+      "modifier_les_profils": "Modify profils",
+      "ajouter_un_profil": "Add profil"
+    }
+  }
+]

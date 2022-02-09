@@ -11,7 +11,9 @@
         "cakephp/migrations": "~1.0",
         "cakephp/plugin-installer": "~1.0",
         "maiconpinto/cakephp-adminlte-theme": "1.0.5",
-        "friendsofcake/cakephp-csvview": "~3.0"
+        "friendsofcake/cakephp-csvview": "~3.0",
+        "google/cloud-translate": "^1.12",
+      "ext-json": "*"
     },
     "require-dev": {
         "psy/psysh": "@stable",
