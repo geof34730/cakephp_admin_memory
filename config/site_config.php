@@ -11,7 +11,7 @@ if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
 
 define('IP_CLIENT', $ip);
 
-
+define('TRANSLATE_KEY','AIzaSyBonjJuWksSee6wtBvTaPq8NMnR3ez1e5A');
 $serveur='dev';
 
 if($serveur=='dev'){

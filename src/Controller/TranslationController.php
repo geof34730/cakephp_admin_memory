@@ -30,7 +30,7 @@ class TranslationController extends AppController
 
 
             $translate = new TranslateClient([
-                'key' => 'AIzaSyBonjJuWksSee6wtBvTaPq8NMnR3ez1e5A'
+                'key' => TRANSLATE_KEY
             ]);
 
             $array_product = array();
